@@ -1,2 +1,3 @@
-# DUPLA 
-Danillo - 06 - Victor Hugo - 33
+
+# DUPLA
+## Leonardo de Mattos Ribeiro - 21    ---- Emanuel Carvalho - 8.
