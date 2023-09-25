@@ -1,3 +1,2 @@
-
 # DUPLA
-## Danillo Vinicius da Silva Costa - 06 ---- Victor Hugo Garozo - 33.
+## LUCAS N23 --- CAIO N04
