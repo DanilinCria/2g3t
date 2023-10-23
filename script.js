@@ -12,29 +12,44 @@ const atualizar_tela = () =>{
 }
 function inserir_ultimo(){
     let nome = document.getElementById("nome").value;
-    if(nome == "") return;
+    if("" !=nome){
     lista.push(nome);
     atualizar_tela();
-    document.getElementById("nome").value = "";
+    }
 }
 function inserir_primeiro(){
     let nome = document.getElementById("nome").value;
-    if(nome == "") return;
+    if("" !=nome){
     lista.unshift(nome);
     atualizar_tela();
-    document.getElementById("nome").value = "";
+    }
 }
 function deletar_ultimo(){
     if(lista.length > 0){
         lista.pop();
-        atulizar_lista();
-        document.getElementById("nome").value = "";
+        atualizar_tela();
     }
 }
 function deletar_primeiro(){
     if(lista.length > 0){
         lista.shift();
-        atulizar_lista();
-        document.getElementById("nome").value = "";
+        atualizar_tela();
+    }
+}
+function nova_lista(){
+    lista = [];
+    atualizar_tela();
+}
+function ordenar_ZA(){
+    if(lista.length > 0){
+        lista.sort();
+        lista.reverse();
+        atualizar_tela();
+    }
+}
+function ordenar_AZ(){
+    if(lista.length > 0){
+        lista.sort();
+        atualizar_tela();
     }
 }
