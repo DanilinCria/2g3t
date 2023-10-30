@@ -1,2 +1,2 @@
 # DUPLA
-## DANILO N6 --- VICTOR HUGO N33
+## Vinicius - 34 --- Beatriz- 02.
