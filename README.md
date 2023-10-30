@@ -1,2 +1,2 @@
 # DUPLA
-## Vinicius - 34 --- Beatriz- 02.
+## Victor Hugo - 33 --- Danillo V- 06.
