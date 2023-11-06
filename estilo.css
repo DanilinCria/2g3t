@@ -3,7 +3,7 @@ body {
 }
 .entrada{
     width: 48px;
-    background-color: white;
+    background-color: rgb(214, 202, 202);
     border: boton;
     border-bottom: 2px solid;
     text-align: right;
