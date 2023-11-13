@@ -1,2 +1,2 @@
 # DUPLA
-## Victor Hugo - 33 --- Danillo V- 06.
+## Verônica - n°32 --- Vitor G. - n°35.
