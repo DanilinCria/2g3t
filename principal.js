@@ -165,3 +165,18 @@ const setpa_r = () => {
     pa_al = document.getElementById("pa_a1").value;
     mostrar_pa();
 }
+
+let num = 0;
+function trocar_img(){
+
+num++;
+setTimeout(function()
+    document.getElementById("nova_imagem").src = "./img/img"+num+".jpg";
+if(num == 3) num = 0;
+trocar_img();
+{
+
+
+},1000)
+}
+
