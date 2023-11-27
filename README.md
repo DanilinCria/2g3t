@@ -1,3 +1,3 @@
 
 # DUPLA
-## Leonardo de Mattos Ribeiro - 21    ---- Emanuel Carvalho - 8.
+## Victor Hugo Garozo - 33 ---- Danillo Vincius - 06.
